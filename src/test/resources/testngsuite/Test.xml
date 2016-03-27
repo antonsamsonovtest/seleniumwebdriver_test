@@ -1,0 +1,15 @@
+<suite name="Test task" verbose="1">
+
+	<test name="Gmail flow tests.">
+		<classes>
+			<class name="my.selenuim.tests.GoogleFlowTest" />
+		</classes>
+	</test>
+
+	<test name="Ebay flow tests.">
+		<classes>
+			<class name="my.selenuim.tests.EbayFlowTest" />
+		</classes>
+	</test>
+
+</suite>
